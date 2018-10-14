@@ -1,0 +1,10 @@
+/**
+ * @fileoverview added by tsickle
+ * @suppress {checkTypes,extraRequire,uselessCode} checked by tsc
+ */
+export { AppModule } from './src/app/app.module';
+export { BancoCentralModule } from './src/app/banco-central/banco-central.module';
+export { BancoCentralComponent } from './src/app/banco-central/banco-central.component';
+export { BancoCentralService } from './src/app/banco-central/banco-central.service';
+
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiaW5kZXguanMiLCJzb3VyY2VSb290Ijoibmc6Ly9jb3RhY2FvLWRvLWRpYS8iLCJzb3VyY2VzIjpbImluZGV4LnRzIl0sIm5hbWVzIjpbXSwibWFwcGluZ3MiOiI7Ozs7QUFBQSwwQkFBYyxzQkFBc0IsQ0FBQTtBQUVwQyxPQUFPLEVBQUUsa0JBQWtCLEVBQUUsTUFBUyw4Q0FBOEMsQ0FBQztBQUNyRixPQUFPLEVBQUUscUJBQXFCLEVBQUUsTUFBTSxpREFBaUQsQ0FBQztBQUN4RixPQUFPLEVBQUUsbUJBQW1CLEVBQUUsTUFBUSwrQ0FBK0MsQ0FBQyIsInNvdXJjZXNDb250ZW50IjpbImV4cG9ydCAqIGZyb20gJy4vc3JjL2FwcC9hcHAubW9kdWxlJ1xyXG5cclxuZXhwb3J0IHsgQmFuY29DZW50cmFsTW9kdWxlIH0gICAgZnJvbSAnLi9zcmMvYXBwL2JhbmNvLWNlbnRyYWwvYmFuY28tY2VudHJhbC5tb2R1bGUnO1xyXG5leHBvcnQgeyBCYW5jb0NlbnRyYWxDb21wb25lbnQgfSBmcm9tICcuL3NyYy9hcHAvYmFuY28tY2VudHJhbC9iYW5jby1jZW50cmFsLmNvbXBvbmVudCc7XHJcbmV4cG9ydCB7IEJhbmNvQ2VudHJhbFNlcnZpY2UgfSAgIGZyb20gJy4vc3JjL2FwcC9iYW5jby1jZW50cmFsL2JhbmNvLWNlbnRyYWwuc2VydmljZSc7Il19
